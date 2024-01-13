@@ -41,3 +41,6 @@ Este projeto está licenciado sob a Licença MIT.
 
 
 Ao copiar e colar no GitHub, o Markdown será interpretado e exibido corretamente. Certifique-se de substituir os marcadores de posição, como `seu-usuario` e `seu-repositorio`, com as informações reais do seu projeto.
+
+![Descrição da Imagem](appAlcoolOuGasolina.jpg)
+
